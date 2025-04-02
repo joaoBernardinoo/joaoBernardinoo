@@ -1,7 +1,7 @@
 <h1 align="center">Hii, I'm João, but everyone call me Bernardino</h1>
 <h3 align="center">"Machine Learning & Natural Language Processing"</h3>
 
-- 🔭 I’m currently working on **Project Digger**
+- 🔭 I'm currently working in Project DIGGER, which is a research project funded by the Fundação de Amparo à Pesquisa do Estado da Bahia (FAPESB) in partnership with Escavador, aimed at proposing a Machine Learning model in Portuguese to assist citizens in judicial processes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
